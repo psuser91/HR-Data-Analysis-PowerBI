@@ -122,4 +122,5 @@ It is suitable for **Data Analyst, HR Analyst, and Business Analyst** roles.
 ## Author
 **Pradeep Sharma**  
  Aspiring Data Analyst  
+ 🔗 GitHub Profile: https://github.com/your-username
 
