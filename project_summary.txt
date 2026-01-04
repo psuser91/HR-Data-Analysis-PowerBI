@@ -1,0 +1,55 @@
+Project Title:
+HR Data Analysis Dashboard using Power BI
+
+Project Objective:
+The objective of this project is to analyze human resource data and provide meaningful insights into workforce composition, recruitment effectiveness, employee status, attrition patterns, and future workforce trends. This dashboard is designed to support HR and management teams in making data-driven decisions.
+
+Project Description:
+This project uses Power BI to transform raw HR data into an interactive and insightful dashboard. The dashboard provides a comprehensive overview of employee metrics such as total employee count, active vs departed employees, recruitment sources, office-wise distribution, exit reasons, age demographics, and employee forecasting trends.
+
+Tools & Technologies Used:
+- Power BI for dashboard development and visualization
+- Power Query for data cleaning, transformation, and preparation
+- DAX (Data Analysis Expressions) for calculated measures and KPIs
+- Data Visualization techniques for presenting insights clearly
+
+Data Preparation & Modeling:
+- Cleaned and transformed HR data using Power Query
+- Removed null and inconsistent values
+- Converted data types and renamed columns for clarity
+- Created relationships and optimized the data model
+- Developed DAX measures for KPIs such as total employees, average employee score, and attrition counts
+
+Key Analysis & Insights:
+1. Employee Status Analysis:
+   Analyzed total employees and classified them into active and departed categories to understand workforce strength.
+
+2. Recruitment Source Analysis:
+   Evaluated multiple recruitment sources such as LinkedIn, Indeed, and others to identify the most effective hiring channels.
+
+3. Office-wise Employee Distribution:
+   Visualized employee distribution across office locations including Washington, Los Angeles, New York, and London to support regional workforce planning.
+
+4. Exit Cause Analysis:
+   Analyzed employee exit reasons such as retirement, termination, better opportunities, and natural exits to understand attrition drivers.
+
+5. Age-wise Employee Distribution:
+   Studied employee age groups to understand workforce demographics and identify dominant age brackets.
+
+6. Designation-wise Employee Count:
+   Compared employee counts across designations like Manager, Assistant Manager, Support Staff, Clerk, and others to identify role distribution.
+
+7. Employee Forecasting:
+   Analyzed historical employee data to identify workforce trends and support future hiring and planning decisions.
+
+Key KPIs:
+- Total Employees
+- Active vs Departed Employees
+- Average Employee Score
+- Attrition and Retirement Count
+
+Business Impact:
+This dashboard enables HR teams to monitor workforce health, optimize recruitment strategies, reduce attrition, and improve workforce planning. It provides management with a single, interactive view of key HR metrics for faster and more informed decision-making.
+
+Outcome:
+This project demonstrates hands-on experience in Power BI, including data cleaning, data modeling, DAX calculations, dashboard design, and business analytics. It is well-suited for Data Analyst, HR Analyst, and Business Analyst entry-level roles.
