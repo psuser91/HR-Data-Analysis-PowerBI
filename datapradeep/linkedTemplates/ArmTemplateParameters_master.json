@@ -1,0 +1,75 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datapradeep"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage3_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage4_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"SqlServer1_password": {
+			"value": ""
+		},
+		"SqlServer2_password": {
+			"value": ""
+		},
+		"SqlServer3_password": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "pradeep.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "datafoctary"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "pradeep"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "pradeep"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "storagedata12"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "pradeep"
+		},
+		"SqlServer2_properties_typeProperties_server": {
+			"value": "pradeep.database.windows.net"
+		},
+		"SqlServer2_properties_typeProperties_database": {
+			"value": "datafoctary"
+		},
+		"SqlServer2_properties_typeProperties_userName": {
+			"value": "pradeep"
+		},
+		"SqlServer3_properties_typeProperties_server": {
+			"value": "pradeep.database.windows.net"
+		},
+		"SqlServer3_properties_typeProperties_database": {
+			"value": "datafoctary"
+		},
+		"SqlServer3_properties_typeProperties_userName": {
+			"value": "pradeep"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
