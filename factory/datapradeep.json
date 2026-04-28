@@ -1,0 +1,15 @@
+{
+	"name": "datapradeep",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e572bbe-c2a6-43e5-a7c1-1ede04f1f736",
+		"tenantId": "734eae8b-2212-4028-ba61-2b9cb51eae0d"
+	}
+}
